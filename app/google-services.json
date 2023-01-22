@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "183896503940",
+    "project_id": "text-recogniser-app-a56fd",
+    "storage_bucket": "text-recogniser-app-a56fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183896503940:android:2c154707190b3ce33474d1",
+        "android_client_info": {
+          "package_name": "com.sajal.assignment.app.textrecogniser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183896503940-e0j233pi2788gd70eoo0f8l6bcdppkcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9g9ezSPFdit56WNdatWDiuVxoCLweKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183896503940-e0j233pi2788gd70eoo0f8l6bcdppkcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
